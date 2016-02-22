@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Синди</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="left_menu_schedule">Расписание</string>
+    <string name="left_menu_rent">Аренда</string>
+    <string name="left_menu_news">Новости</string>
+    <string name="left_menu_contacts">Контакты</string>
+</resources>
